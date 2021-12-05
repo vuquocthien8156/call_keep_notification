@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "98766960097",
+    "project_id": "notification-firebase-3acf8",
+    "storage_bucket": "notification-firebase-3acf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98766960097:android:7ee39c41c3ca02a752cea0",
+        "android_client_info": {
+          "package_name": "com.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98766960097-ttu8mgg8234ebeg2425jft26a8kkvf8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasenotification",
+            "certificate_hash": "d82315e6b4332cfc0ce3aca9e4880f86f50a30f1"
+          }
+        },
+        {
+          "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChurvrEiqORy2Nyhfjel3SixSG8RWWxJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98766960097:android:2199bf286ef5eae152cea0",
+        "android_client_info": {
+          "package_name": "com.thien.goigau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98766960097-c77b1if3u0b3c8bkqblvr9lo7m0qtj0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thien.goigau",
+            "certificate_hash": "01eb475f0e5afc8955b1c40da1dcb41f8465cd18"
+          }
+        },
+        {
+          "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChurvrEiqORy2Nyhfjel3SixSG8RWWxJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98766960097:android:4703da26c88b7b2052cea0",
+        "android_client_info": {
+          "package_name": "com.thien.vu.callnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98766960097-r950ufhmjs4njoqj0n1puvsr0ti2mhhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thien.vu.callnotification",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChurvrEiqORy2Nyhfjel3SixSG8RWWxJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98766960097-goq69uaa3c2l6v5rjbq0c1br9c9ltvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
